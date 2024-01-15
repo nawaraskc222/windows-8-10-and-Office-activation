@@ -1,0 +1,11 @@
+Press  + R to open the Run menu.
+
+Enter 'powershell' in the box of the Run menu.
+
+Press Ctrl + Shift + Enter.
+
+In the PowerShell window, enter the following command and press Enter: irm https://massgrave.dev/get | iex
+
+Wait until the windows for the activation tool pops up.
+Choose the option for HWID Activation by pressing the key associated with it.
+Wait until it completes. It might give an SKU value error, but it will complete successfully. If it doesn't try again a few times and it should work.
